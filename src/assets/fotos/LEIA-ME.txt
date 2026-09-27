@@ -1,0 +1,12 @@
+Coloque aqui as fotos reais. Elas entram no site sozinhas, pelo nome do arquivo:
+
+  rita.webp                 retrato da Rita (seção "Quem cuida de você")
+  terapia-relaxante.webp    card da massagem relaxante
+  terapia-pedras.webp       card das pedras quentes
+  terapia-drenagem.webp     card da drenagem linfática
+  terapia-reflexologia.webp card da reflexologia
+  terapia-escalda.webp      card do escalda-pés
+  espaco-01.webp, espaco-02.webp, ...   galeria "O espaço" (aparece com 1 foto ou mais)
+
+Aceita .webp, .jpg, .jpeg, .png e .avif. Ideal: 1600 px no lado maior.
+Depois é só publicar de novo (commit no GitHub; a Vercel refaz o site).
