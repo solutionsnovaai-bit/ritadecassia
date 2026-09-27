@@ -1,0 +1,11 @@
+Coloque aqui as fotos reais. Elas entram no site sozinhas, pelo nome do arquivo:
+
+  rita.webp                  retrato da Rita (seção "Quem cuida de você")
+  tratamento-rosto.webp      cartão "Pele e rosto"
+  tratamento-corpo.webp      cartão "Corpo e contorno"
+  tratamento-cabelos.webp    cartão "Cabelos"
+  tratamento-laser.webp      cartão "Depilação a laser"
+  espaco-01.webp, espaco-02.webp, ...   galeria "O espaço" (aparece com 1 foto ou mais)
+
+Aceita .webp, .jpg, .jpeg, .png e .avif. Ideal: 1600 px no lado maior.
+Depois é só publicar de novo (commit no GitHub; a Vercel refaz o site).
